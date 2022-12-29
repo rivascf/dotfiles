@@ -40,4 +40,13 @@
 
 - **From:** "***Effective Neovim: Instant IDE***" [YT video](https://www.youtube.com/watch?v=stqUbv-5u2s), [Github repository](https://github.com/nvim-lua/kickstart.nvim)
 
+## Other sources
 
+1. "*How to install Go [golang] on Ubuntu Linux*" [link](https://www.cyberciti.biz/faq/how-to-install-gol-ang-on-ubuntu-linux/)
+1. **GO** [Downloads](https://go.dev/dl/)
+1. "*How to Install Rust on Ubuntu*" [link](https://phoenixnap.com/kb/install-rust-ubuntu)
+
+## Community Forums
+
+1. "*Highlights broken after update with query: invalid node type #3092*" - **nvim-treesitter** [issue](https://github.com/nvim-treesitter/nvim-treesitter/issues/3092)
+1. "*TreeSitter error with nvim 0.8*" - **Reddit** [post](https://www.reddit.com/r/neovim/comments/xy27fa/treesitter_error_with_nvim_08/)
