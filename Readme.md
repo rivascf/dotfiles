@@ -1,5 +1,9 @@
 # Dotfiles - Last update 29/12/2022
 
+## General
+
+1. **Wallpapers** can be found them [here](https://drive.google.com/drive/folders/1StvXMHSumx9eIOtZSW7se6ysyYa-2qYi?usp=share_link)
+
 ## Nvim configuration
 
 ### Sources
